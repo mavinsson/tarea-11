@@ -54,7 +54,7 @@ int main(int argc, char const *argv[])
     }
 
     cout << endl;
-    cout << "el resultado es: " << suma << endl;
+    cout << "total suma: " << suma << endl;
 
     return 0;
 }
